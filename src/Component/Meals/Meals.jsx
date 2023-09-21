@@ -4,8 +4,8 @@ import Meal from "../Meal/Meal";
 const Meals = () => {
   const meals = useLoaderData();
 
+// console.log(meals.meals);
 
-  // console.log(meals.meals);
 
   return (
     <div>
